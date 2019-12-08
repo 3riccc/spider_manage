@@ -6,4 +6,4 @@ here is a basically architecture of the whole system
 
 and some functions you can use
 
-<img src="how.jpg" alt="">
+<img src="how.jpeg" alt="">
